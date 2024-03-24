@@ -13,6 +13,7 @@
 		4C4F9CB92BAFA53400E133F6 /* ImmersiveView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C4F9CB82BAFA53400E133F6 /* ImmersiveView.swift */; };
 		4C4F9CBB2BAFA53600E133F6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4C4F9CBA2BAFA53600E133F6 /* Assets.xcassets */; };
 		4C4F9CBE2BAFA53600E133F6 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4C4F9CBD2BAFA53600E133F6 /* Preview Assets.xcassets */; };
+		4C4F9CC62BAFA75A00E133F6 /* testviews.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C4F9CC52BAFA75A00E133F6 /* testviews.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		4C4F9CBA2BAFA53600E133F6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4C4F9CBD2BAFA53600E133F6 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		4C4F9CBF2BAFA53600E133F6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4C4F9CC52BAFA75A00E133F6 /* testviews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = testviews.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +66,7 @@
 				4C4F9CBA2BAFA53600E133F6 /* Assets.xcassets */,
 				4C4F9CBF2BAFA53600E133F6 /* Info.plist */,
 				4C4F9CBC2BAFA53600E133F6 /* Preview Content */,
+				4C4F9CC52BAFA75A00E133F6 /* testviews.swift */,
 			);
 			path = Windowbindingpractice;
 			sourceTree = "<group>";
@@ -157,6 +160,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4C4F9CC62BAFA75A00E133F6 /* testviews.swift in Sources */,
 				4C4F9CB72BAFA53400E133F6 /* ContentView.swift in Sources */,
 				4C4F9CB52BAFA53400E133F6 /* WindowbindingpracticeApp.swift in Sources */,
 				4C4F9CB92BAFA53400E133F6 /* ImmersiveView.swift in Sources */,

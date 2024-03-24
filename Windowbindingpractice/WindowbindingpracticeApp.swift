@@ -10,9 +10,13 @@ import SwiftUI
 @main
 struct WindowbindingpracticeApp: App {
     var body: some Scene {
-        WindowGroup {
+        WindowGroup(id: "Content"){
             ContentView()
         }.windowStyle(.volumetric)
+        
+        WindowGroup(id: "Apple"){
+            testviews()
+        }
 
         ImmersiveSpace(id: "ImmersiveSpace") {
             ImmersiveView()
